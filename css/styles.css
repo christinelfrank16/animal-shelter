@@ -22,7 +22,6 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-
 }
 
 .column ul{
@@ -46,4 +45,27 @@ h2{
 
 body{
   background-color: #fcf9ea;
+}
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    background-color: white;
+  }
+
+  .column{
+    width: 40%;
+  }
+
+}
+
+@media screen and (max-width: 600px) and (min-width: 300px){
+  body {
+    background-color: teal;
+  }
+  .column{
+    width: 90%;
+  }
+  .adopt{
+    color: #fcf9ea;
+  }
 }
