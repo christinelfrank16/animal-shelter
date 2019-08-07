@@ -1,3 +1,8 @@
+h1, h3 {
+  text-align: center;
+}
+
+
 .column{
   float: left;
   width: 20%;
@@ -18,4 +23,23 @@ img{
   margin-left: auto;
   margin-right: auto;
 
+}
+
+.column ul{
+  font-weight: bold;
+  font-style: oblique;
+}
+
+h2{
+  clear:both;
+
+}
+
+.requirements{
+  font-size: 20px;
+}
+
+.adopt{
+  font-size:25px;
+  color: green;
 }
