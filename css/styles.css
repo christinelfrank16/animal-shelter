@@ -1,0 +1,21 @@
+.column{
+  float: left;
+  width: 20%;
+  border: 2px solid brown;
+  margin: 20px;
+  padding: 8px;
+}
+.column p .name {
+  font-weight: bold;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
