@@ -2,7 +2,7 @@
 
 #### A webpage dedicated to displaying animals needing to be adopted and information about them, 9-Aug-2019
 
-#### By Christine Frank
+#### By Christine Frank and Anita Kemp
 
 ## Description
 The purpose of this webpage is to give more information about animals needing to be adopted. Includes descriptions of each animal and a representative image.
